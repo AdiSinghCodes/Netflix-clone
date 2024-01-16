@@ -1,0 +1,48 @@
+
+    body{
+        background-color: black;
+    }
+    
+    t{
+        position: fixed;
+        top: 2%;
+        left: 1%;
+        display: flex;
+        justify-content: left;
+    }
+    v{
+        position: fixed;
+        top: 4%;
+        right: 1%;
+        display: flex;
+        justify-content: right;
+    }
+    ul{
+        position: fixed;
+        word-spacing: 20px;
+        padding: 70px;
+        nav-down: 10%;
+        left: 10%;
+        width: 100%
+    }
+        
+  .centered-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ensures container takes full viewport height */
+  }
+
+  o{
+    float: right;
+    position: fixed;
+  }
+    
+  #mybut{
+    position: absolute;
+    top: 80%;
+    left: 1%;
+    height: 5%;
+    width: 5%;
+    font-size: 10px;
+  }
